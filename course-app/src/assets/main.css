@@ -21,15 +21,51 @@ a,
   }
 }
 
-@media (min-width: 1024px) {
-  body {
-    display: flex;
-    place-items: center;
+.encours {
+  display: none;
+}
+section.container {
+  padding: 1rem;
+}
+.install {
+  display: none;
+  float: right;
+}
+.update {
+  display: none;
+}
+.reset,
+.reset-day,
+.update {
+  float: left;
+  margin-right: 1em;
+}
+.main-content {
+  height: calc(100vh - 320px) !important;
+}
+.footer {
+  height: 80px !important;
+}
+.table td {
+  font-size: 11px;
+}
+.settings {
+  position: absolute;
+  right: 0;
+  top: 0;
+  margin-top: 1rem;
+  margin-right: 1rem;
+  font-size: 2rem;
+}
+.objectif {
+  margin-bottom: 1rem;
+}
+@media screen and (min-width: 640px) {
+  .encours {
+    float: left;
   }
-
-  #app {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    padding: 0 2rem;
+  .legend {
+    max-width: 50%;
+    float: right;
   }
 }
