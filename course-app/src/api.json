@@ -1,0 +1,316 @@
+{
+  "trainingPlans": [
+    {
+      "name": "Entraînements 0-5km",
+      "weeks": [
+        {
+          "weekNumber": 1,
+          "days": [
+            {
+              "dayNumber": 1,
+              "steps": [
+                {"type": "Echauffement", "duration": 10, "completed": false},
+                {"type": "Trot", "duration": 0.5, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 1.5, "completed": false},
+                {"type": "Marche", "duration": 1.5, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 2, "completed": false},
+                {"type": "Trot", "duration": 1.5, "completed": false},
+                {"type": "Marche", "duration": 2, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Stretch", "duration": 5, "completed": false}
+              ],
+              "completed": false
+            },
+            {
+              "dayNumber": 2,
+              "steps": [
+                {"type": "Echauffement", "duration": 10, "completed": false},
+                {"type": "Trot", "duration": 0.5, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 1.5, "completed": false},
+                {"type": "Marche", "duration": 1.5, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 2, "completed": false},
+                {"type": "Trot", "duration": 1.5, "completed": false},
+                {"type": "Marche", "duration": 2, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Stretch", "duration": 5, "completed": false}
+              ],
+              "completed": false
+            },
+            {
+              "dayNumber": 3,
+              "steps": [
+                {"type": "Echauffement", "duration": 10, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 1.5, "completed": false},
+                {"type": "Marche", "duration": 1.5, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 2.5, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Stretch", "duration": 5, "completed": false}
+              ],
+              "completed": false
+            },
+            {
+              "dayNumber": 4,
+              "steps": [
+                {"type": "Echauffement", "duration": 10, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 1.5, "completed": false},
+                {"type": "Marche", "duration": 1.5, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 2.5, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Stretch", "duration": 5, "completed": false}
+              ],
+              "completed": false
+            },
+            {
+              "dayNumber": 5,
+              "steps": [
+                {"type": "Echauffement", "duration": 10, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 2, "completed": false},
+                {"type": "Trot", "duration": 2.5, "completed": false},
+                {"type": "Marche", "duration": 3, "completed": false},
+                {"type": "Trot", "duration": 2.5, "completed": false},
+                {"type": "Marche", "duration": 2.5, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Stretch", "duration": 5, "completed": false}
+              ],
+              "completed": false
+            },
+            {
+              "dayNumber": 6,
+              "steps": [
+                {"type": "Echauffement", "duration": 10, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 2, "completed": false},
+                {"type": "Trot", "duration": 2.5, "completed": false},
+                {"type": "Marche", "duration": 3, "completed": false},
+                {"type": "Trot", "duration": 2.5, "completed": false},
+                {"type": "Marche", "duration": 2.5, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Stretch", "duration": 5, "completed": false}
+              ],
+              "completed": false
+            },
+            {
+              "dayNumber": 7,
+              "steps": [
+                {"type": "Echauffement", "duration": 10, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 2, "completed": false},
+                {"type": "Trot", "duration": 2.5, "completed": false},
+                {"type": "Marche", "duration": 3, "completed": false},
+                {"type": "Trot", "duration": 2.5, "completed": false},
+                {"type": "Marche", "duration": 2.5, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Stretch", "duration": 5, "completed": false}
+              ],
+              "completed": false
+            }
+          ],
+          "completed": false
+        },
+        {
+          "weekNumber": 2,
+          "days": [
+            {
+              "dayNumber": 1,
+              "steps": [
+                {"type": "Echauffement", "duration": 10, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 2, "completed": false},
+                {"type": "Trot", "duration": 2.5, "completed": false},
+                {"type": "Marche", "duration": 2.5, "completed": false},
+                {"type": "Trot", "duration": 3, "completed": false},
+                {"type": "Marche", "duration": 3, "completed": false},
+                {"type": "Trot", "duration": 2.5, "completed": false},
+                {"type": "Marche", "duration": 2.5, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Stretch", "duration": 5, "completed": false}
+              ],
+              "completed": false
+            },
+            {
+              "dayNumber": 2,
+              "steps": [
+                {"type": "Echauffement", "duration": 10, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 2, "completed": false},
+                {"type": "Trot", "duration": 2.5, "completed": false},
+                {"type": "Marche", "duration": 2.5, "completed": false},
+                {"type": "Trot", "duration": 3, "completed": false},
+                {"type": "Marche", "duration": 3, "completed": false},
+                {"type": "Trot", "duration": 2.5, "completed": false},
+                {"type": "Marche", "duration": 2.5, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Stretch", "duration": 5, "completed": false}
+              ],
+              "completed": false
+            },
+            {
+              "dayNumber": 3,
+              "steps": [
+                {"type": "Echauffement", "duration": 10, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 3, "completed": false},
+                {"type": "Marche", "duration": 2, "completed": false},
+                {"type": "Trot", "duration": 3, "completed": false},
+                {"type": "Marche", "duration": 2, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Stretch", "duration": 5, "completed": false}
+              ],
+              "completed": false
+            },
+            {
+              "dayNumber": 4,
+              "steps": [
+                {"type": "Echauffement", "duration": 10, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 3, "completed": false},
+                {"type": "Marche", "duration": 2, "completed": false},
+                {"type": "Trot", "duration": 3, "completed": false},
+                {"type": "Marche", "duration": 2, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Stretch", "duration": 5, "completed": false}
+              ],
+              "completed": false
+            },
+            {
+              "dayNumber": 1,
+              "steps": [
+                {"type": "Echauffement", "duration": 10, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 2, "completed": false},
+                {"type": "Trot", "duration": 2.5, "completed": false},
+                {"type": "Marche", "duration": 2.5, "completed": false},
+                {"type": "Trot", "duration": 3, "completed": false},
+                {"type": "Marche", "duration": 3, "completed": false},
+                {"type": "Trot", "duration": 2.5, "completed": false},
+                {"type": "Marche", "duration": 2.5, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Stretch", "duration": 5, "completed": false}
+              ],
+              "completed": false
+            },
+            {
+              "dayNumber": 4,
+              "steps": [
+                {"type": "Echauffement", "duration": 10, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 2, "completed": false},
+                {"type": "Trot", "duration": 2.5, "completed": false},
+                {"type": "Marche", "duration": 2.5, "completed": false},
+                {"type": "Trot", "duration": 3, "completed": false},
+                {"type": "Marche", "duration": 3, "completed": false},
+                {"type": "Trot", "duration": 2.5, "completed": false},
+                {"type": "Marche", "duration": 2.5, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Stretch", "duration": 5, "completed": false}
+              ],
+              "completed": false
+            },
+            {
+              "dayNumber": 5,
+              "steps": [
+                {"type": "Echauffement", "duration": 10, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 3, "completed": false},
+                {"type": "Marche", "duration": 2, "completed": false},
+                {"type": "Trot", "duration": 4, "completed": false},
+                {"type": "Marche", "duration": 3, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Stretch", "duration": 5, "completed": false}
+              ],
+              "completed": false
+            },
+            {
+              "dayNumber": 6,
+              "steps": [
+                {"type": "Echauffement", "duration": 10, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 3, "completed": false},
+                {"type": "Marche", "duration": 2, "completed": false},
+                {"type": "Trot", "duration": 4, "completed": false},
+                {"type": "Marche", "duration": 3, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Stretch", "duration": 5, "completed": false}
+              ],
+              "completed": false
+            },
+            {
+              "dayNumber": 7,
+              "steps": [
+                {"type": "Echauffement", "duration": 10, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 3, "completed": false},
+                {"type": "Marche", "duration": 2, "completed": false},
+                {"type": "Trot", "duration": 4, "completed": false},
+                {"type": "Marche", "duration": 3, "completed": false},
+                {"type": "Trot", "duration": 2, "completed": false},
+                {"type": "Marche", "duration": 1, "completed": false},
+                {"type": "Trot", "duration": 1, "completed": false},
+                {"type": "Stretch", "duration": 5, "completed": false}
+              ],
+              "completed": false
+            }
+          ],
+          "completed": false
+        }
+      ],
+      "completed": false
+    }
+  ]
+}

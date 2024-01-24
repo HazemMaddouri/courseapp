@@ -1,5 +1,9 @@
 <script setup>
 import router from '@/router';
+import { useUserStore } from '@/stores/user';
+
+const userStore = useUserStore()
+
 const props = defineProps({
   props: {
     username: "",
@@ -8,8 +12,16 @@ const props = defineProps({
 })
 
 const login = (username, password) => {
-  if(username === "hazem" && password === "pass") {
+  if(username === username && password === password) {
   router.push('/main')
+
+  const capitalizer = () => {
+    let notfirstletter = username.slice(1)
+    let firstletter = username.charAt(0)
+    const capitalized = firstletter.toUpperCase() + notfirstletter
+    return username = capitalized
+  }
+  return userStore.username = capitalizer(username)
 }
 }
 </script>
