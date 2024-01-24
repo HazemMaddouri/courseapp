@@ -6,6 +6,7 @@ import { createPinia } from 'pinia'
 
 import App from './App.vue'
 import router from './router'
+import { useRunningStore } from './stores/running'
 
 const app = createApp(App)
 
@@ -14,6 +15,7 @@ app.use(router)
 
 app.mount('#app')
 
+//onMounted(() => useRunningStore.fetchDataFromAPI())
 /*if('serviceWorker' in navigator) {
   navigator.serviceWorker.register('./sw.js')
     .then((registration) => {

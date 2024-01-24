@@ -11,11 +11,10 @@
             <p><button class="button start is-danger" @click="(runningStore.changerEtape)">Démarrer</button></p>
             <div :style="{display: runningStore.etapeOff}">
                 <h2 class="jour title">Jour 1</h2>
-                <p class="progress-text">Etape {{runningStore.etapeChiffre}} sur {{ runningStore.maxEtapeChiffre }}</p>
-                <p class="vitesse">Vitesse : ?km/h</p>
+                <p class="progress-text">Etape {{runningStore.etapeChiffre}} sur {{ runningStore.etapeTitre.length }}</p>
                 <p class="action">{{ runningStore.etapeTitre[runningStore.etapeChiffre - 1] }}</p>
-                <audio src=""></audio>
-                <progress class="progress is-large is-success" :max="runningStore.maxEtapeChiffre" :value="runningStore.etapeChiffre"></progress>
+                <audio autoplay :src="`/audio/${runningStore.etapeTitre[runningStore.etapeChiffre - 1]}.mp3`" ref="audioPlayer"></audio>
+                <progress class="progress is-large is-success" :max="runningStore.etapeTitre.length" :value="runningStore.etapeChiffre"></progress>
                 
             </div>
             <div class="legend">
@@ -69,5 +68,4 @@ import { useRunningStore } from '@/stores/running';
 const runningStore = useRunningStore()
 const userStore = useUserStore()
 
-onBeforeMount(() => runningStore.fetchDataFromAPI())
 </script>
