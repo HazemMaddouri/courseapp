@@ -41,7 +41,7 @@ export const useRunningStore = defineStore('running', {
           //this.etapeOff = 'none'
           this.stopInterval()
         }
-      }, 1000)
+      }, 2500)
     },
     stopInterval() {
       if (this.intervalId !== null) {
